@@ -30,7 +30,6 @@ visualization/
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 
