@@ -1,0 +1,7 @@
+Hydrothermal Simulation Environment Setup
+Date: Mon 31 Mar 2025 11:27:18 SAST
+Python: Python 3.13.2
+NumPy: 2.2.4
+SciPy: 1.15.2
+FiPy: 3.4.5
+Matplotlib: 3.10.1

@@ -68,7 +68,7 @@ BOTTOM_HEAT_FLUX = 0.06      # W/m² (60 mW/m²)
 # Time stepping
 MAX_SIMULATION_TIME = 100000   # Maximum simulation time in years
 OUTPUT_INTERVAL = 1000         # Output interval in years
-MIN_TIME_STEP = 1              # Minimum time step in days
+MIN_TIME_STEP = 365              # Minimum time step in days
 MAX_TIME_STEP = 1000           # Maximum time step in years
 INITIAL_TIME_STEP = 1          # Initial time step in years
 
@@ -79,7 +79,7 @@ PRESSURE_TOLERANCE = 10.0      # Convergence tolerance for pressure (Pa)
 RELAXATION_FACTOR = 0.7        # Relaxation factor for iterations
 
 # Debug settings
-DEBUG_MAX_STEPS = 10           # Maximum number of steps when debugging
+DEBUG_MAX_STEPS = 1000           # Maximum number of steps when debugging
 
 # FRACTURE ZONES
 # -------------
